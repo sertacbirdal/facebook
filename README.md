@@ -2,7 +2,6 @@
 
 [![Build Status](https://github.com/huandu/facebook/workflows/Go/badge.svg)](https://github.com/huandu/facebook/actions)
 [![GoDoc](https://godoc.org/github.com/huandu/facebook?status.svg)](https://pkg.go.dev/github.com/huandu/facebook/v2)
-
 This is a Go package that fully supports the [Facebook Graph API](https://developers.facebook.com/docs/graph-api/) with file upload, batch request and marketing API. It can be used in Google App Engine.
 
 API documentation can be found on [godoc](https://pkg.go.dev/github.com/huandu/facebook/v2).
